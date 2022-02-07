@@ -1,3 +1,3 @@
-*:heart:
-*:smile:
-*:tada:
+* :heart:
+* :smile:
+* :tada:
